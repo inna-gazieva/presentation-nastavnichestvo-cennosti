@@ -8,8 +8,13 @@ authors:
     website: "https://inna-gazieva.ru/"
 type: dataset
 url: "https://inna-gazieva.ru/"
-version: "1.0"
+doi: "10.5281/zenodo.21577388"
+version: "1.1"
 date-released: "2026-07-29"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21577388"
+    description: "Concept DOI (все версии, Zenodo)"
 preferred-citation:
   type: conference-paper
   title: "Наставничество как инструмент трансляции традиционных духовно-нравственных ценностей в системе образования Российской Федерации"
@@ -24,5 +29,6 @@ preferred-citation:
     country: "RU"
     date-start: "2026-07-29"
   year: 2026
+  doi: "10.5281/zenodo.21577388"
   languages:
     - ru

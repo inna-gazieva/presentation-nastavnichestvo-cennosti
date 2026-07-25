@@ -134,8 +134,6 @@
 
 ## Как цитировать доклад
 
-**ГОСТ:** Газиева, И. А. Наставничество как инструмент трансляции традиционных духовно-нравственных ценностей в системе образования Российской Федерации : доклад / И. А. Газиева ; РАНХиГС. — Форум «Машук» (Росмолодёжь.Гранты). — Пятигорск, 29 июля 2026 г.
+**ГОСТ:** Газиева, И. А. Наставничество как инструмент трансляции традиционных духовно-нравственных ценностей в системе образования Российской Федерации : доклад / И. А. Газиева ; РАНХиГС. — Форум «Машук» (Росмолодёжь.Гранты). — Пятигорск, 29 июля 2026 г. — DOI 10.5281/zenodo.21577388.
 
-**APA:** Gazieva, I. A. (2026, July 29). *Nastavnichestvo kak instrument translyatsii traditsionnykh dukhovno-nravstvennykh tsennostei v sisteme obrazovaniya Rossiiskoi Federatsii* [Mentorship as a tool for transmitting traditional spiritual and moral values in the Russian education system] [Conference presentation]. Mashuk Forum (Rosmolodezh.Granty), Pyatigorsk, Russia.
-
-*(Точный DOI будет впечатан после регистрации записи на Zenodo.)*
+**APA:** Gazieva, I. A. (2026, July 29). *Nastavnichestvo kak instrument translyatsii traditsionnykh dukhovno-nravstvennykh tsennostei v sisteme obrazovaniya Rossiiskoi Federatsii* [Mentorship as a tool for transmitting traditional spiritual and moral values in the Russian education system] [Conference presentation]. Mashuk Forum (Rosmolodezh.Granty), Pyatigorsk, Russia. https://doi.org/10.5281/zenodo.21577388
