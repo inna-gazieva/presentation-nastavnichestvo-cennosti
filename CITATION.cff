@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Если вы используете этот доклад, цитируйте его по данным ниже (preferred-citation)."
+title: "Наставничество как инструмент трансляции традиционных духовно-нравственных ценностей в системе образования Российской Федерации (доклад, презентация)"
+authors:
+  - family-names: "Gazieva"
+    given-names: "Inna"
+    orcid: "https://orcid.org/0000-0002-0778-7171"
+    website: "https://inna-gazieva.ru/"
+type: dataset
+url: "https://inna-gazieva.ru/"
+version: "1.0"
+date-released: "2026-07-29"
+preferred-citation:
+  type: conference-paper
+  title: "Наставничество как инструмент трансляции традиционных духовно-нравственных ценностей в системе образования Российской Федерации"
+  authors:
+    - family-names: "Gazieva"
+      given-names: "Inna"
+      orcid: "https://orcid.org/0000-0002-0778-7171"
+  collection-title: "Форум «Машук» (Росмолодёжь.Гранты): образовательная сессия по формированию системы наставничества и тренерства"
+  conference:
+    name: "Форум «Машук» (Росмолодёжь.Гранты)"
+    city: "Пятигорск"
+    country: "RU"
+    date-start: "2026-07-29"
+  year: 2026
+  languages:
+    - ru

@@ -1,0 +1,36 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "CreativeWork",
+  "additionalType": "PresentationDigitalDocument",
+  "name": "Наставничество как инструмент трансляции традиционных духовно-нравственных ценностей в системе образования Российской Федерации",
+  "description": "Научный доклад И. А. Газиевой (РАНХиГС) на форуме «Машук» (Росмолодёжь.Гранты, 29.07.2026): наставничество как социокультурный механизм трансляции традиционных духовно-нравственных ценностей в образовании. На данных двух авторских исследований («Ценности наставничества», 2025; опрос студенческой молодёжи N=3864, 2024) предложена пятиэтапная технология трансляции ценностей. Презентация (PDF) + машиночитаемые тезисы.",
+  "author": [
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0002-0778-7171",
+      "givenName": "Inna",
+      "familyName": "Gazieva",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "RANEPA (Russian Presidential Academy of National Economy and Public Administration)"
+      }
+    }
+  ],
+  "datePublished": "2026-07-29",
+  "inLanguage": "ru",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "codeRepository": "https://github.com/inna-gazieva/presentation-nastavnichestvo-cennosti",
+  "url": "https://inna-gazieva.ru/",
+  "identifier": [
+    "https://www.wikidata.org/wiki/Q140355257"
+  ],
+  "keywords": [
+    "наставничество",
+    "традиционные ценности",
+    "духовно-нравственные ценности",
+    "социология ценностей",
+    "ценности молодёжи",
+    "система образования",
+    "цивилизационный код России"
+  ]
+}

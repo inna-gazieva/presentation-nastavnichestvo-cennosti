@@ -1,0 +1,43 @@
+{
+  "upload_type": "presentation",
+  "title": "Наставничество как инструмент трансляции традиционных духовно-нравственных ценностей в системе образования Российской Федерации",
+  "description": "<p>Научный доклад на образовательной сессии по формированию системы наставничества и тренерства (форум «Машук», Росмолодёжь.Гранты; Пятигорск, 29 июля 2026 г.). Автор — Газиева Инна Александровна, д. соц. н., доцент, руководитель ОП «Лидеры Регионов» РАНХиГС.</p><p>Наставничество рассматривается как социокультурный механизм трансляции традиционных духовно-нравственных ценностей (Указ Президента РФ № 809) в системе образования. Доклад опирается на два авторских исследования: «Ценности наставничества» (2025; проект Минобрнауки РФ «Школа наставничества»: 150 участников, 33 региона, 42 эксперта, 4 интервью и 3 фокус-группы) и опрос студенческой молодёжи (N = 3864, семь ведущих вузов, сентябрь 2024). Показано: наставничество отличается от обучения добровольностью и взаимностью; ценности молодёжи распадаются на поведенчески устойчивое ядро (патриотический и духовно-нравственный блоки), декларативные ценности (разрыв «идеал — действие») и ценности-изоляты; главная функция наставничества — переводить декларативные ценности в реальное действие через совместную практику и доверие. Предложена пятиэтапная технология трансляции ценностей: Контакт → Цели → Практика → Отделение → Преемственность.</p><p>Репозиторий содержит презентацию (PDF, 61 слайд) и авторские машиночитаемые тезисы (TEZISY.md) с определениями, эмпирикой и выводами.</p><p><strong>English summary.</strong> Academic presentation (Mashuk Forum / Rosmolodezh.Granty, Pyatigorsk, 29 July 2026) by Inna A. Gazieva (Dr. Sci. in Sociology, RANEPA). Mentorship is analysed as a socio-cultural mechanism for transmitting Russia's traditional spiritual and moral values in education. Drawing on two author surveys — «Values of Mentorship» (2025; RF Ministry of Science project, 150 participants, 33 regions, 42 experts) and a student-youth survey (N = 3,864, seven leading universities, 2024) — the talk shows that mentorship differs from teaching by its voluntary and reciprocal nature; that youth values split into a behaviourally stable core (patriotic and spiritual-moral blocks), declarative values (an ideal-action gap) and isolated values; and that mentorship's key function is to convert declarative values into real action through shared practice and trust. A five-stage value-transmission technology is proposed: Contact → Goals → Practice → Separation → Continuity.</p>",
+  "creators": [
+    {
+      "name": "Gazieva, Inna",
+      "orcid": "0000-0002-0778-7171",
+      "affiliation": "RANEPA (Russian Presidential Academy of National Economy and Public Administration)"
+    }
+  ],
+  "publication_date": "2026-07-29",
+  "language": "rus",
+  "license": "cc-by-nc-nd-4.0",
+  "keywords": [
+    "наставничество",
+    "традиционные ценности",
+    "духовно-нравственные ценности",
+    "социология ценностей",
+    "ценности молодёжи",
+    "студенческая молодёжь",
+    "система образования",
+    "цивилизационный код России",
+    "трансляция ценностей",
+    "mentorship",
+    "traditional values",
+    "sociology of values",
+    "youth values",
+    "moral education"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.wikidata.org/wiki/Q140355257",
+      "relation": "isReferencedBy"
+    },
+    {
+      "identifier": "10.12737/2133680",
+      "relation": "references",
+      "resource_type": "publication-book"
+    }
+  ],
+  "notes": "Автор: https://inna-gazieva.ru/ · ORCID 0000-0002-0778-7171 · Wikidata Q140355257 · РАНХиГС. Смежные рецензируемые работы: монография «Социология ценностей: методология исследования» (ИНФРА-М, 2024, DOI 10.12737/2133680); Газиева И. А. Эмпирическая модель анализа социальных ценностей студенческой молодёжи // ГМУ. Учёные записки. 2025. № 2. С. 230–240; Газиева И. А. Ценностное ядро устойчивости студенческой молодёжи: методология верификации // Society and Security Insights. 2026. Т. 9, № 2. Доклад подготовлен и представлен в рамках форума «Машук» (Росмолодёжь.Гранты)."
+}
